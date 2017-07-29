@@ -13,16 +13,16 @@ Server
 Debian / Ubuntu:
 
     apt-get install git
-    git clone https://github.com/geoleonsh/shadowsocksr
+    git clone https://github.com/geoleonsh/ssr
 
 CentOS:
 
     yum install git
-    git clone https://github.com/geoleonsh/shadowsocksr
+    git clone https://github.com/geoleonsh/ssr
 
 Windows:
 
-    git clone https://github.com/geoleonsh/shadowsocksr
+    git clone https://github.com/geoleonsh/ssr
 
 ### Usage for single user on linux platform
 
@@ -93,13 +93,13 @@ Bugs and Issues
 
 
 
-[Android]:           https://github.com/geoleonsh/shadowsocksr
+[Android]:           https://github.com/geoleonsh/ssr-android
 [Build Status]:      https://travis-ci.org/shadowsocksr/shadowsocksr.svg?branch=manyuser
 [Debian sid]:        https://packages.debian.org/unstable/python/shadowsocks
 [iOS]:               https://github.com/shadowsocks/shadowsocks-iOS/wiki/Help
 [Issue Tracker]:     https://github.com/shadowsocksr/shadowsocksr/issues?state=open
 [OpenWRT]:           https://github.com/shadowsocks/openwrt-shadowsocks
-[macOS]:             https://github.com/geoleonsh/shadowsocksr
+[macOS]:             https://github.com/geoleonsh/ssr-macOS
 [Travis CI]:         https://travis-ci.org/shadowsocksr/shadowsocksr
-[Windows]:           https://github.com/geoleonsh/shadowsocksr
+[Windows]:           https://github.com/geoleonsh/ssr-csharp
 [Wiki]:              https://github.com/geoleonsh/shadowsocks-rss/wiki
