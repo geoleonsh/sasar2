@@ -13,16 +13,16 @@ Server
 Debian / Ubuntu:
 
     apt-get install git
-    git clone https://github.com/geoleonsh/ssr
+    git clone https://github.com/geoleonsh/sasar2
 
 CentOS:
 
     yum install git
-    git clone https://github.com/geoleonsh/ssr
+    git clone https://github.com/geoleonsh/sasar2
 
 Windows:
 
-    git clone https://github.com/geoleonsh/ssr
+    git clone https://github.com/geoleonsh/sasar2
 
 ### Usage for single user on linux platform
 
